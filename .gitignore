@@ -1,0 +1,19 @@
+# Python virtual environment
+**/venv/
+**/.venv/
+venv/
+.venv/
+
+# Cache
+**/__pycache__/
+**/*.pyc
+
+# Uploads and temporary data
+**/uploads/
+**/hsv_log.csv
+**/latest_status.txt
+
+# OS metadata
+.DS_Store
+**/.DS_Store
+Thumbs.db
